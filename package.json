@@ -1,26 +1,26 @@
-{
-  "name": "Aquabot-MD",
+{{
+  "name": "QUEEN NICKY-MD",
   "version": "1.0.0",
-  "description": "aquabot happy for whatsapp.",
-  "main": "/aquabot/bot.js",
+  "description": "queennicky happy for whatsapp.",
+  "main": "/queennicky/bot.js",
   "type": "commonjs",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AQUABOT-MD.git"
+    "url": "git+https://github.com/QUEENNICKY/QUEEN-NICKY-.git"
   },
   "engines" : { 
     "node" : ">=14.19.3"
   },
-  "author": "sanuwa official",
-  "developer": "sanuwa",
+  "author": "Dumidu official",
+  "developer": "Dumidu",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
+    "url": "https://github.com/QUEENNICKY/QUEEN-NICKY-.git"
   },
-  "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
+  "homepage": "https://github.com/QUEENNICKY/QUEEN-NICKY-.git",
   "dependencies": {
      "@adiwajshing/baileys": "4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
